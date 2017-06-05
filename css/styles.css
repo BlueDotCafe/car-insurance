@@ -1,0 +1,67 @@
+.btn {
+  display: block;
+  margin: auto;
+  background-color: white;
+  color: rgba(109, 149, 21, 0.9);
+  border: 2px solid rgba(109, 149, 21, 0.9);
+  border-radius: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 11pt;
+  margin-top: 20px;
+
+}
+
+#quote {
+  display: none;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
+
+#ct-body {
+  border: 10px solid rgba(109, 149, 21, 0.9);
+  padding: 15px;
+  margin: 300px;
+  border-radius: 46px;
+  width: 490px;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 21pt;
+  font-weight: bold;
+  color: rgba(109, 149, 21, 0.9);
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 11pt;
+  color: #1c1c1c;
+}
+
+#insurance {
+  text-align: center;
+}
+
+label {
+  color: #1c1c1c;
+  font-weight: bold;
+  font-size: 11pt;
+  margin: 9px;
+}
+
+#quote {
+  margin-top: 31px;
+  margin-bottom: 0px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 13pt;
+  color: #1c1c1c;
+}
